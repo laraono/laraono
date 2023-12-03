@@ -13,6 +13,5 @@
 <hr>
 
 <p>
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laraono&show_icons=true&locale=en&layout=compact" alt="laraono" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laraono&show_icons=true&locale=en&layout=compact" alt="laraono" />
 </p>
